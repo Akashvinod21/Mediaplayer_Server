@@ -1,0 +1,128 @@
+{
+  "allVideos": [
+    {
+      "caption": "Nadaaniyan",
+      "imageUrl": "https://i.ytimg.com/vi/gPpQNzQP6gE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCQZARWbJficUvVoNXoVMicmfvxrg",
+      "embedLink": "https://www.youtube.com/embed/gPpQNzQP6gE",
+      "id": 1
+    },
+    {
+      "caption": "Ranam",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733cf86f352c9bc06337a77e0e",
+      "embedLink": "https://www.youtube.com/embed/UImrau29cu8",
+      "id": 2
+    },
+    {
+      "caption": "Thangamey",
+      "imageUrl": "https://i.ytimg.com/vi/4bZ-MAOLbGc/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/4bZ-MAOLbGc",
+      "id": 3
+    },
+    {
+      "caption": "Save Your Tears",
+      "imageUrl": "https://www.udiscovermusic.com/wp-content/uploads/2022/12/Save-Your-Tears-Weeknd.jpg",
+      "embedLink": "https://www.youtube.com/embed/XXYlFuWEuKI",
+      "id": 4
+    },
+    {
+      "caption": "Aasai Kooda",
+      "imageUrl": "https://i.ytimg.com/vi/a3Ue-LN5B9U/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/a3Ue-LN5B9U",
+      "id": 5
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "Tamil Songs",
+      "allVideos": [
+        {
+          "caption": "Aasai Kooda",
+          "imageUrl": "https://i.ytimg.com/vi/a3Ue-LN5B9U/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/a3Ue-LN5B9U",
+          "id": 5
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Hindi Songs",
+      "allVideos": [
+        {
+          "caption": "Nadaaniyan",
+          "imageUrl": "https://i.ytimg.com/vi/gPpQNzQP6gE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCQZARWbJficUvVoNXoVMicmfvxrg",
+          "embedLink": "https://www.youtube.com/embed/gPpQNzQP6gE",
+          "id": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "Malayalam Songs",
+      "allVideos": [
+        {
+          "caption": "Ranam",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733cf86f352c9bc06337a77e0e",
+          "embedLink": "https://www.youtube.com/embed/UImrau29cu8",
+          "id": 2
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "Nadaaniyan",
+      "url": "https://www.youtube.com/embed/gPpQNzQP6gE",
+      "timeStamp": "12/07/2024, 15:24",
+      "id": 2
+    },
+    {
+      "caption": "Save Your Tears",
+      "url": "https://www.youtube.com/embed/XXYlFuWEuKI",
+      "timeStamp": "15/07/2024, 14:03",
+      "id": 3
+    },
+    {
+      "caption": "Ranam",
+      "url": "https://www.youtube.com/embed/UImrau29cu8",
+      "timeStamp": "15/07/2024, 14:07",
+      "id": 4
+    },
+    {
+      "caption": "Ranam",
+      "url": "https://www.youtube.com/embed/UImrau29cu8",
+      "timeStamp": "15/07/2024, 15:00",
+      "id": 5
+    },
+    {
+      "caption": "Ranam",
+      "url": "https://www.youtube.com/embed/UImrau29cu8",
+      "timeStamp": "15/07/2024, 15:01",
+      "id": 6
+    },
+    {
+      "caption": "Aasai Kooda",
+      "url": "https://www.youtube.com/embed/a3Ue-LN5B9U",
+      "timeStamp": "16/07/2024, 13:51",
+      "id": 7
+    },
+    {
+      "caption": "Thangamey",
+      "url": "https://www.youtube.com/embed/4bZ-MAOLbGc",
+      "timeStamp": "16/07/2024, 13:52",
+      "id": 8
+    },
+    {
+      "caption": "Thangamey",
+      "url": "https://www.youtube.com/embed/4bZ-MAOLbGc",
+      "timeStamp": "16/07/2024, 13:53",
+      "id": 9
+    },
+    {
+      "caption": "Save Your Tears",
+      "url": "https://www.youtube.com/embed/XXYlFuWEuKI",
+      "timeStamp": "16/07/2024, 14:55",
+      "id": 10
+    }
+  ]
+}
